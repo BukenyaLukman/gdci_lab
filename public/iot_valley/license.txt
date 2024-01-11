@@ -1,0 +1,11 @@
+Model Information:
+* title:	IOT Valley
+* source:	https://sketchfab.com/3d-models/iot-valley-ebeb07d2a507406da4b984659af3ad3b
+* author:	Herb.Yao (https://sketchfab.com/Herb.Yao)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "IOT Valley" (https://sketchfab.com/3d-models/iot-valley-ebeb07d2a507406da4b984659af3ad3b) by Herb.Yao (https://sketchfab.com/Herb.Yao) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
