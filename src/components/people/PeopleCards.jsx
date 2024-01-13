@@ -64,7 +64,7 @@ const PeopleCards = () => {
                     <div class="flex flex-col items-center p-8 transition-colors duration-200 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
                         <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src={tonnyImage} alt=""/>
                         
-                        <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">Prof Tonny Oyana</h1>
+                        <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">Professor Tonny Oyanna</h1>
                         
                         <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">Lab Director</p>
                         
