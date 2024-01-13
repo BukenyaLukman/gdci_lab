@@ -1,12 +1,14 @@
 
 
 import Contact from "./Contact";
-import People from "./People";
-import Publications from "./Publications";
-import Research from "./Research";
-import Home from "./Home";
+import People from "./people/People";
+import Publications from "./publications/Publications";
+import Research from "./research/Research";
+import ResearchDetails from "./research/ResearchDetails";
+import Home from "./home/Home";
 import NavBar from "./NavBar";
-import News from "./News";
+import News from "./news/News";
+import NewsDetails from "./news/NewsDetails";
 
 
 export {
@@ -14,7 +16,9 @@ export {
     Publications,
     People,
     Research,
+    ResearchDetails,
     NavBar,
     Home,
-    News
+    News,
+    NewsDetails
 };
