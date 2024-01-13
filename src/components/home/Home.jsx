@@ -12,8 +12,9 @@ const Home = () => {
         <NavBar />
         <Model/>
         <WhatWeDo/>
+        <Contact/>
         <JoinUs/>
-        {/* <Contact/> */}
+     
         <Footer/>
     </div>
   )
