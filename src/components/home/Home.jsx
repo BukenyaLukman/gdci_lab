@@ -2,16 +2,18 @@ import React from 'react'
 import Contact from './Contact'
 import Model from './Model'
 import NavBar from '../NavBar'
-import WorkingOn from './WorkingOn'
+import JoinUs from './JoinUs'
 import Footer from '../Footer'
+import WhatWeDo from './WhatWeDo'
 
 const Home = () => {
   return (
     <div>
         <NavBar />
         <Model/>
-        <WorkingOn/>
-        <Contact/>
+        <WhatWeDo/>
+        <JoinUs/>
+        {/* <Contact/> */}
         <Footer/>
     </div>
   )
