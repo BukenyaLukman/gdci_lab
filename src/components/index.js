@@ -1,6 +1,6 @@
 
 
-import Contact from "./Contact";
+import Contact from "./home/Contact";
 import People from "./people/People";
 import Publications from "./publications/Publications";
 import Research from "./research/Research";

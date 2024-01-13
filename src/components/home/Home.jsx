@@ -1,8 +1,8 @@
 import React from 'react'
-import Contact from '../Contact'
+import Contact from './Contact'
 import Model from './Model'
 import NavBar from '../NavBar'
-import WorkingOn from '../WorkingOn'
+import WorkingOn from './WorkingOn'
 import Footer from '../Footer'
 
 const Home = () => {
